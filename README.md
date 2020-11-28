@@ -2,4 +2,4 @@
 Portfolio with 3 assets in R using public data
 
 
-![Image of 3risk](https://github.com/efipaka/Portfolio-with-3-assets/blob/master/threeasset_risk.jpeg)
+![Image_of_3risk](https://github.com/efipaka/Portfolio-with-3-assets/blob/master/three%20asset%20risk.jpg)
