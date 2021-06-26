@@ -1,5 +1,7 @@
 # Portfolio_with_3_assets
-Portfolio with 3 assets in R using public data
 
+Portfolio with 3 assets in R using public stock data retrieved with Google
 
-![Image_of_3risk](https://github.com/efipaka/Portfolio-with-3-assets/blob/master/three%20asset%20risk.jpg)
+Visualization:
+
+![image risk](https://github.com/efipaka/Portfolio-with-3-assets/blob/main/three_asset_risk.jpeg)
